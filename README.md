@@ -1,4 +1,4 @@
-# productApp
+# Running instructions
 
 Database setup
 --------------
